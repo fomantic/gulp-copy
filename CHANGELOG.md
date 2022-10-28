@@ -1,3 +1,8 @@
+## 4.0.2
+
+-   updated and fixed dependencies
+-   switched from jasmine to mocha testing
+
 ## 4.0.0
 
 -   Gulp 4 support

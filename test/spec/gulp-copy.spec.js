@@ -1,5 +1,7 @@
 'use strict';
 
+var expect = require('expect');
+
 describe('Gulp Copy', function() {
     var gulpCopy = require('../../lib/gulp-copy');
 

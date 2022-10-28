@@ -3,6 +3,9 @@
 
 # gulp-copy
 
+> ### Forked Version using updated dependencies
+> Original repo at https://github.com/klaascuvelier/gulp-copy
+
 Copy source files to new destination and use that destination as new source (for further piping).
 Automatically creates needed folders before proceeding. Ability to remove 'prefixes' from path.
 

@@ -1,7 +1,14 @@
 {
-    "extends": "kentcdodds",
+    "extends": "gulp",
     "rules": {
         "no-magic-numbers": 0,
-        "valid-jsdoc": 0
+        "valid-jsdoc": 0,
+        "node/no-unsupported-features/es-syntax": [
+            2,
+            {
+                "version": ">=12",
+                "ignores": ["classes"]
+            }
+        ]
     }
 }
