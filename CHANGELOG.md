@@ -1,5 +1,7 @@
-## 4.0.2
+## 5.0.0
 
+-   gulp 5 support
+-   requires node 12+
 -   updated and fixed dependencies
 -   switched from jasmine to mocha testing
 
